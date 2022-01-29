@@ -13,3 +13,8 @@
 ### About me
 I have experience working with C++/C, React, TypeScript/JavaScript, Electron, NextJS, Flutter/Dart, and Kotlin.  
 I am interested in the fields of Video Game development, Mobile/Web development, Computer Graphics and FinTech.
+
+### My little projects
+* **[Studydesk](https://github.com/peterdpong/studydesk)** - Student Dashboard
+* **[Checked](https://github.com/peterdpong/checked-android)**
+* **pfp** - 🤫💰
