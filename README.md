@@ -17,4 +17,4 @@ I am interested in the fields of Video Game development, Mobile/Web development,
 ### My little projects
 * **[Studydesk](https://github.com/peterdpong/studydesk)** - Student Dashboard
 * **[Checked](https://github.com/peterdpong/checked-android)**
-* **pfp** - 🤫💰
+* **pfp**
