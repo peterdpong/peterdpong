@@ -7,8 +7,8 @@
   </b>
 </p>
 
-**SWE Intern @ <img src="https://peterdpong.github.io/res/img/figmalogo.svg" width="14" height="14">Figma**  
-**Currently studying Computer Engineering at the University of Toronto and previously interned @ Prodigy.**  
+**Incoming SWE New Grad @ <img src="https://peterdpong.github.io/res/img/figmalogo.svg" width="14" height="14">Figma**  
+**Currently studying Computer Engineering at the University of Toronto and previously interned at Figma and Prodigy.**  
 
 
 ### About me
