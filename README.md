@@ -3,7 +3,7 @@
   <b>
   <a href="https://peterdpong.github.io/">Website</a> •
   <a href="https://twitter.com/peterdpong">Twitter</a> •
-  <a href="https://www.linkedin.com/in/soraphoj/">Linkedin</a>
+  <a href="https://www.linkedin.com/in/peterdpong/">Linkedin</a>
   </b>
 </p>
 
