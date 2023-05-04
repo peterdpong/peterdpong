@@ -1,4 +1,4 @@
-### Heya, I'm Peter!
+### Hello, I'm Peter!
 <p> 
   <b>
   <a href="https://peterdpong.me">Website</a> •
@@ -7,14 +7,13 @@
   </b>
 </p>
 
-**Incoming SWE New Grad @ Figma**  
-**Currently studying Computer Engineering at the University of Toronto and previously interned at Figma and Prodigy.**  
+Currently, I am an incoming Software Engineer at Figma. Recently graduated from the University of Toronto studying Computer Engineering.
 
 
 ### About me
-I have experience working with C++/C, React, TypeScript/JavaScript, Electron, NextJS, Flutter, and Kotlin.   
-Interested in Computer Graphics, Video Game Development, Mobile/Web Development, and FinTech.
+I have experience working with C++/C, React, TypeScript/JavaScript, Electron, NextJS, Flutter, Python, and Kotlin.   
+Areas I am interested in are computer graphics, mobile/web development, video game development, software for personal finance, and multiplayer experiences.
 
-### My little projects
+### My side-projects
 * **Studydesk**
 * **[Checked](https://github.com/peterdpong/checked-android)**
