@@ -7,7 +7,7 @@
   </b>
 </p>
 
-Currently, I am an incoming Software Engineer at Figma. Recently graduated from the University of Toronto studying Computer Engineering.
+Currently, I am a Software Engineer at Figma. Recently graduated from the University of Toronto studying Computer Engineering.
 
 
 ### About me
