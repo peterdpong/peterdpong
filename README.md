@@ -1,4 +1,4 @@
-### Hi hi, I'm Peter!
+### Hello, I'm Peter!
 <p> 
   <b>
   <a href="https://peterdpong.me">Website</a> •
@@ -7,6 +7,6 @@
   </b>
 </p>
 
-I work as a Software Engineer at Figma working on FigJam! 
+I work as a Software Engineer at Figma working on new initiatives, and previously worked on FigJam!
 
 I love building helpful, delightful, and useful software with a high level of craft and detail.
