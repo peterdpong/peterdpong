@@ -1,7 +1,8 @@
 ### Hello, I'm Peter!
 <p> 
   <b>
-  <a href="https://peterdpong.me">Website</a> •
+  <a href="https://peterdpong.com">Website</a> •
+    <a href="https://bsky.app/profile/peterdpong.com">Bluesky</a> •
   <a href="https://twitter.com/peterdpong">Twitter</a> •
   <a href="https://figma.com/@petah">Figma</a> 
   </b>
