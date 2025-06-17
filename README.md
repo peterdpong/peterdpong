@@ -8,6 +8,6 @@
   </b>
 </p>
 
-I work as a Software Engineer at Figma working on new initiatives, and previously worked on FigJam!
+I work as a Software Engineer at Figma working on Figma Sites, and previously worked on FigJam!
 
 I love building helpful, delightful, and useful software with a high level of craft and detail.
